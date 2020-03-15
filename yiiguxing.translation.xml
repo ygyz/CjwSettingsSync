@@ -1,0 +1,36 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Noncompliant" />
+      <item value="current" />
+      <item value="Cancle" />
+      <item value="Regist" />
+      <item value="PREFIX" />
+      <item value="PROTOCAL" />
+      <item value="rp Regist" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="8" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="AUTO" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

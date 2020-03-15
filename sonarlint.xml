@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://10.200.61.132:9000" />
+          <token>df9ddf9adfccdf98df9fdf9cdf9cdfcbdfc9dfccdf9ddfcbdf9ddfc8dfcfdf9edfc9df93df9cdf9edfc8df9adfccdf98dfc9df99df9cdf99dfcbdfc8df92df9cdf92df9ddf9adf98df92dfcfdfcbdf9e</token>
+          <option name="name" value="xrtx-rms" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
