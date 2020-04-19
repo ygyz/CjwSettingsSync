@@ -132,7 +132,7 @@
       <option name="source-loading" value="USER_SOURCES" />
       <option name="schema-control" value="AUTOMATIC" />
       <library>
-        <url>file://D:/03-Code/XRTX-RMS/common/lib/gbase/gbase-connector-java-8.2.02-bin.jar</url>
+        <url>file://D:/03-Code/GP-ASMS/lib/gbase-connector-java-8.3.81.51_build50.0-bin.jar</url>
       </library>
     </driver>
   </component>
