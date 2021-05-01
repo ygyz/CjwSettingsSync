@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="场景" />
       <item value="RRGISTER" />
       <item value="CANCELL" />
       <item value="experimental" />
@@ -15,7 +16,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="ENGLISH" value="10" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
