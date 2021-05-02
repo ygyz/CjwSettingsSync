@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="实现" />
       <item value="fault" />
       <item value="故障" />
       <item value="故障点" />
@@ -20,7 +21,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="ENGLISH" value="12" />
         <entry key="FRENCH" value="1" />
         <entry key="CATALAN" value="1" />
       </map>
