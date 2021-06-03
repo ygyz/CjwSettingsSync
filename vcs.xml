@@ -14,9 +14,13 @@
           <option name="url" value="http://gitlab.cx.sdt.com/zhangyaze/soss-mobile-office.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.cx.sdt.com/renshaomei/yth-xrtx.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\03-签章\15-YD" />
+    <option name="cloneParentDir" value="E:\15-YTH\01-Code" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
